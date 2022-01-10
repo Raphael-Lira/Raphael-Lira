@@ -1,5 +1,5 @@
 - Olá sou Raphael Lira tenho 18 anos e inciei com a programação a 5 meses com python
 - Estou interessado em trabalhar com analise de dados e WebScraping porém estou aberto a todo tipo de desafios na área 
-- Atualmente estou aprendendo python e usando ele para manipular e analisar dados em sql/excel usando a biblioteca pandas além de fazer alguns projeots de automação na Web com selenium 
+- Atualmente estou aprendendo python e usando ele para manipular e analisar dados em sql/excel usando a biblioteca pandas além de fazer alguns projetos de automação na Web com selenium 
 - Um dos meus objetivos é fazer partes de projetos que me façam adquirir experiencia e que me desafiem ao maximo para eu poder ter uma evolução.
 - Para contato meu email é ''raphaellirapk@gmail.com''.
