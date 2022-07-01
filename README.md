@@ -1,5 +1,5 @@
-- Opa sou Raphael Lira tenho 18 anos e tenho conhecimento em python
-- Estou interessado em trabalhar com Analise de dados e WebScraping  porém estou aberto a todo tipo de desafios na área 
-- Eu uso Python para manipular, analisar e obter informações de banco de dados  além de fazer projetos de automação na Web de formas variadas inclusive ultilizando informações de bancos de dados
-- Um dos meus objetivos é fazer partes de projetos que me façam adquirir experiencia e que me desafiem ao maximo para eu poder ter uma evolução.
+- Opa sou Raphael Lira tenho 18 anos e tenho domínio em python
+- Aqui no meu git estou divulgando todas as minhas atividades que variam das minhas habilidades com o python: Projetos de Data Analysis, Web Scraping, RPA e Criação de sistemas com funcionalidades diversas
+- Ficarei feliz com avaliações e compartilhamento de conhecimento ^^
+- Um dos meus objetivos é fazer parte de grandes projetos que me façam adquirir experiencia e que me desafiem ao maximo.
 - Para contato meu email é ''raphaellirapk@gmail.com''.
