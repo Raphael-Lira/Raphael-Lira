@@ -1,4 +1,4 @@
-- Opa sou Raphael Lira tenho 18 anos e tenho domínio em python
+- Opa sou Raphael Lira tenho 19 anos e tenho domínio em python/sql 
 - Aqui no meu git estou divulgando todas as minhas atividades que variam das minhas habilidades com o python: Projetos de Data Analysis, Web Scraping, RPA e Criação de sistemas com funcionalidades diversas
 - Ficarei feliz com avaliações e compartilhamento de conhecimento ^^
 - Um dos meus objetivos é fazer parte de grandes projetos que me façam adquirir experiencia e que me desafiem ao maximo.
