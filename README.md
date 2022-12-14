@@ -8,7 +8,7 @@ Estou buscando experiência na área...Um dos meus objetivos é fazer partes de 
 <div align="center">
   <a href="https://github.com/Raphael-Lira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Lira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Lira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width='400cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Lira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
