@@ -18,6 +18,8 @@ Além disso, sou dedicado e motivado no ambiente profissional, e adoro trocar co
 <a href= 'https://www.instagram.com/raphael_llira/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
 </a>
 <hr>
+<a href= 'https://www.linkedin.com/in/raphaellira/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+</a>
 <div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
