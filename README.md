@@ -15,6 +15,8 @@ Além disso, sou dedicado e motivado no ambiente profissional, e adoro trocar co
 <img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white'>
 
 </div>
+<a href= 'https://www.instagram.com/raphael_llira/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
+</a>
 <hr>
 <div>
 
