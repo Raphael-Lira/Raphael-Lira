@@ -5,7 +5,12 @@ Olá, meu nome é Raphael Lira e sou apaixonado pela área de tecnologia. Com ap
 Gostaria de destacar meu projeto mais recente: um sistema CRUD que desenvolvi para uma empresa de Salvador, que possui mais de 5 abas para gerenciar a logística da empresa, como comandas de serviço, estoque, relatórios, agenda, entre outras funcionalidades. Todo o programa conversa entre si e com um banco de dados que compilei e hospedei em uma plataforma.
 
 Além disso, sou dedicado e motivado no ambiente profissional, e adoro trocar conhecimentos com outras pessoas, seja aprendendo ou ensinando. Sou um bom ouvinte e admirador de bons profissionais. Estou disponível para novos desafios e espero poder contribuir e aprender ainda mais. Obrigado pela oportunidade!
-
+<div align="center">
+        <a href="https://github.com/Raphael-Lira">
+            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Lira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+            <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Lira&theme=dracula&hide_border=false&&layout=compact"/>
+        </a>
+</div>
 <hr>
 </div>
 <div style="display: inline_block"><br>
@@ -20,7 +25,8 @@ Além disso, sou dedicado e motivado no ambiente profissional, e adoro trocar co
 </a>
 <a href= 'https://www.instagram.com/raphael_llira/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
 </a>
-<img align="center" src="https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif">
 <div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<img align="center" src="https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif">
