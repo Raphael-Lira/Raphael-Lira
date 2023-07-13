@@ -10,15 +10,12 @@ Além disso, sou dedicado e motivado no ambiente profissional, e adoro trocar co
             <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Lira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
             <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Lira&theme=dracula&hide_border=false&&layout=compact"/>
         </a>
-</div>
 <hr>
-</div>
-<div style="display: inline_block"><br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
-<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
-<img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white'>
-
+<div style="display: inline_block" align="center"><br>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+        <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
+        <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
+        <img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white'>
 </div>
 <hr>
 <a href= 'https://www.linkedin.com/in/raphaellira/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
