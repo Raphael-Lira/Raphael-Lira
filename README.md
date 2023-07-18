@@ -29,4 +29,5 @@ Além disso, sou dedicado e motivado no ambiente profissional, e adoro trocar co
         <img align="center" src="https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif">  
 </div>
 <br>
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
