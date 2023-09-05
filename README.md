@@ -9,6 +9,11 @@ Gostaria de destacar meu projeto mais recente: um sistema CRUD que desenvolvi pa
 Além disso, sou dedicado e motivado no ambiente profissional, e adoro trocar conhecimentos com outras pessoas, seja aprendendo ou ensinando. Sou um bom ouvinte e admirador de bons profissionais. Estou disponível para novos desafios e espero poder contribuir e aprender ainda mais. Obrigado pela oportunidade!
 
 <hr>
+<div align="center">
+        <a href="https://github.com/Raphael-Lira">
+            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Lira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+            <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Lira&theme=dracula&hide_border=false&&layout=compact"/>
+        </a>
 <div style="display: inline_block" align="center">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
         <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
