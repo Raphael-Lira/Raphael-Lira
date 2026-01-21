@@ -15,16 +15,16 @@
 <a href="https://www.instagram.com/raphael_llira/">
   <img src="https://img.shields.io/badge/Instagram-@raphael__llira-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:SEUEMAIL@GMAIL.COM">
+<a href="mailto:raphaellirapk@GMAIL.COM">
   <img src="https://img.shields.io/badge/Email-Contato-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://wa.me/5571SEUNUMERO">
+<a href="https://wa.me/5571996457785">
   <img src="https://img.shields.io/badge/WhatsApp-Falar%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320" alt="AI Gif" />
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" alt="AI Gif" />
 
 </div>
 
@@ -111,47 +111,6 @@ eficiência, escalabilidade e entrega real.
 
 ---
 
-## 📌 Projetos em destaque
-> Vou deixar alguns templates bons. Você só troca os links dos seus repos.
-
-- 🧠 **LLM RAG System** — sistema RAG completo com chunking + embeddings + retrieval + reranker  
-  🔗 Repo: https://github.com/SEUUSER/rag-system
-
-- 🤖 **n8n AI Automations** — biblioteca de workflows automação com IA  
-  🔗 Repo: https://github.com/SEUUSER/n8n-ai-workflows
-
-- 🕷️ **Scraping Engine** — web scraping escalável com Playwright + filas + logs  
-  🔗 Repo: https://github.com/SEUUSER/scraping-engine
-
----
-
-## 📈 GitHub Stats (bonito e útil)
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=111111" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111" />
-
-</div>
-
----
-
-## 🏆 Troféus
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=flat&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-
-![Snake animation](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## ☕ Vamos conversar?
 Se você quer construir algo envolvendo **IA + automação + dados**, me chama.
