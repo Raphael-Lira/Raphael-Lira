@@ -153,49 +153,6 @@ Sou **👑 CEO da CYRA** e também atuo como **🧠 Tech Lead**, com **4+ anos**
 
 </div>
 
----
-
-## 📌 Projetos em destaque
-> Troca pelos teus repositórios (os nomes aqui são template).
-
-- 🧠 **LLM RAG System** — pipeline RAG completo: chunking + embeddings + retrieval + rerank  
-  🔗 https://github.com/SEUUSER/rag-system
-
-- 🤖 **n8n AI Workflows** — biblioteca de workflows prontos com IA para automações  
-  🔗 https://github.com/SEUUSER/n8n-ai-workflows
-
-- 🔥 **Flask AI API** — API com ferramentas LLM + logs + integrações (webhooks / DB / WhatsApp)  
-  🔗 https://github.com/SEUUSER/flask-ai-api
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=111111" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111" />
-
-</div>
-
----
-
-## 🏆 Troféus
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=flat&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-
-![Snake animation](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## ☕ Vamos conversar?
 Se você quer construir algo envolvendo **🧠 IA + 🤖 n8n + 🔥 Flask + 📐 matemática aplicada**, me chama.
