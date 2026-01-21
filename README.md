@@ -3,9 +3,6 @@
 # ⚡ Raphael Lira
 ### 👑 CEO @ CYRA • 🧠 IA aplicada • 🤖 Automação • 📊 Dados
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2400&pause=700&color=111111&center=true&vCenter=true&width=900&lines=👑+CEO+da+CYRA+%7C+🧠+AI+%2F+LLM+Engineer;🔎+RAG+%7C+🤖+Agents+%7C+Automation+in+Scale;🤖+n8n+Workflows+%7C+🔥+Flask+APIs+%7C+📊+Data+Pipelines;📐+Math+%2B+Code+%2B+Execution+%3D+Delivery" />
-</a>
 
 <br/>
 
